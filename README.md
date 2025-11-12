@@ -1,5 +1,5 @@
-# Basic C# Projects Hub | Beginner to Intermediate
-A curated collection of self-contained C# projects designed to solidify your programming fundamentals, OOP mastery, and application development skills.
+# FullStack Web Application Hub | Beginner to Advanced
+A curated collection of FullStack projects designed to solidify your programming fundamentals, OOP mastery, and application development skills.
 
 ## Table of Contents
 About the Repository
@@ -15,7 +15,7 @@ About the Repository
 * License
 
 ## About the Repository
-This hub features C# solutions ranging from simple Console Applications to ASP.NET Core web projects. Every project is fully self-contained in its own directory, making it easy to navigate and explore.
+This hub features C# solutions ranging from simple Console Applications to ASP.NET Core, React, HTML, CSS and JavaScript web application projects. Every project is fully self-contained in its own directory, making it easy to navigate and explore.
 
 ### Key Focus Areas:
 
@@ -121,7 +121,7 @@ A robust, larger-scale application example that demonstrates managing complex bu
 * Claims Tracking: Dedicated workflow for submission and review of claims.
 
 ## Getting Started
-You'll need a C# IDE (like Visual Studio or VS Code) installed to run these projects.
+You'll need a C# IDE (like Visual Studio or VS Code- also install C# dev Kit) installed to run these projects.
 
 Clone the Repository:
 
